@@ -1,3 +1,79 @@
+# Gradle build files
+.gradle/
+build/
+out/
+
+# Local configuration file (SDK path, etc)
+local.properties
+
+# Log files
+*.log
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Android Studio
+.idea/
+*.iml
+*.iws
+
+# Jetpack Compose and other caches
+*.keystore
+*.jks
+
+# Android Studio specific files
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# Android specific files
+*.apk
+*.ap_
+*.dex
+*.class
+*.jar
+*.war
+*.ear
+
+# Android Studio and IntelliJ IDEA
+*.idea/
+*.iws
+*.iml
+.gradle/
+
+# Build output
+build/
+captures/
+
+# Misc
+*.swp
+*~
+*.swo
+
+# Gradle
+.gradle/
+build/
+
+# Jetpack Compose tooling
+jetpack-compose-canvas/
+jetpack-compose-studio/
+
+# Gradle Wrapper
+gradle/wrapper/gradle-wrapper.properties
+gradle/wrapper/gradle-wrapper.jar
+
+# Kotlin compiler cache
+kotlin-compiler-cache/
+
+
+
+
+
+
+
+
 # built application files
 *.apk
 *.ap_
